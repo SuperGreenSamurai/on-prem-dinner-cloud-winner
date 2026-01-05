@@ -1,4 +1,4 @@
->>>>>>>>>>>>>> Proof of Concept <<<<<<<<<<<<<<
+<<<<<<<<<<<<<< Proof of Concept <<<<<<<<<<<<<<
 
 This methodology outlines the steps to migrate a simple "Hello World" application from an on-premises data center (or your local machine) to Amazon Web Services (AWS), including the final DNS cutover.
 
